@@ -1,0 +1,6 @@
+{
+  "prompt": "A highly realistic scene inside an old stone restoration workshop, where a craftsman has repaired a cracked marble statue with extreme precision, but instead of smoothing or strengthening it, the repaired areas perfectly preserve every crack, fracture, and flaw in the original structure, making the statue fragile and unusable, while in the background other statues remain intact and structurally sound, natural soft lighting, dust particles in the air, detailed stone textures, cinematic composition, physically plausible, no text, no diagrams, no labels",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A repaired statue preserves every crack instead of strengthening structure, mirroring a model that memorizes noise instead of learning general patterns"
+}

@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful, emotional, surreal image of human lungs formed entirely by a dense urban city resembling Delhi, with tightly packed buildings, roads, and smokestacks shaping the lung structure, thick toxic smog filling most of the lungs, turning them dark grey and black, only a small upper portion showing faint clean blue air, tiny human silhouettes inside the lungs struggling and coughing, the city itself appearing suffocating and alive, dramatic cinematic lighting, high contrast between clean and polluted areas, ultra-realistic textures, deeply atmospheric, no text, no labels, no charts, not an infographic, unsettling and thought-provoking",
+  "model": "DALL·E 3",
+  "dataset_name": "Delhi Air Quality Index (AQI) Dataset",
+  "dataset_url": "https://data.gov.in/",
+  "insight": "Most days in Delhi have hazardous air quality, with clean air being rare"
+}
